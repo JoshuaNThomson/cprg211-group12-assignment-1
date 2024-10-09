@@ -1,0 +1,7 @@
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\bin\Debug\Assignment1.exe.config
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\bin\Debug\Assignment1.exe
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\bin\Debug\Assignment1.pdb
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\obj\Debug\Assignment1.csproj.AssemblyReference.cache
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\obj\Debug\Assignment1.exe
+C:\Users\user\Documents\SAIT\Term 2\OOP2\cprg211-group12-assignment-1\obj\Debug\Assignment1.pdb

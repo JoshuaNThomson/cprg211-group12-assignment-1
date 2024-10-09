@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DE63492-3604-404F-8CBF-67ECAF4721EC}|Assignment1.csproj|c:\\users\\user\\documents\\sait\\term 2\\oop2\\cprg211-group12-assignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DE63492-3604-404F-8CBF-67ECAF4721EC}|Assignment1.csproj|C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DE63492-3604-404F-8CBF-67ECAF4721EC}|Assignment1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DE63492-3604-404F-8CBF-67ECAF4721EC}|Assignment1.csproj|c:\\users\\user\\documents\\sait\\term 2\\oop2\\cprg211-group12-assignment-1\\appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DE63492-3604-404F-8CBF-67ECAF4721EC}|Assignment1.csproj|solutionrelative:appliance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
@@ -38,13 +46,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Appliance.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\Appliance.cs",
+              "RelativeDocumentMoniker": "Appliance.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\Appliance.cs",
+              "RelativeToolTip": "Appliance.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T22:01:56.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\user\\Documents\\SAIT\\Term 2\\OOP2\\cprg211-group12-assignment-1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-05T20:59:05.182Z",
               "EditorCaption": ""
